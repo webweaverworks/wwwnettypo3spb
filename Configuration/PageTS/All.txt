@@ -1,0 +1,7 @@
+#
+# PageTS for WebWeaverWorks
+#
+<INCLUDE_TYPOSCRIPT: source="FILE:EXT:webweaverworks/Configuration/PageTS/RTE.txt">
+<INCLUDE_TYPOSCRIPT: source="FILE:EXT:webweaverworks/Configuration/PageTS/TCEFORM.txt">
+<INCLUDE_TYPOSCRIPT: source="FILE:EXT:webweaverworks/Configuration/PageTS/TCEMAIN.txt">
+<INCLUDE_TYPOSCRIPT: source="FILE:EXT:webweaverworks/Configuration/PageTS/Mod/WebLayout/BackendLayouts.txt">

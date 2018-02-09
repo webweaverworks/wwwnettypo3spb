@@ -1,0 +1,4 @@
+#
+# BACKENDLAYOUTS
+#
+<INCLUDE_TYPOSCRIPT: source="DIR:EXT:webweaverworks/Configuration/PageTS/Mod/WebLayout/BackendLayouts" extensions="txt">
